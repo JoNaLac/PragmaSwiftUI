@@ -144,7 +144,7 @@ xcodebuild test -scheme PragmaSwiftUI -destination 'platform=iOS Simulator,name=
 
 ## Autor
 
-Desarrollado por [@Rawstells](https://github.com/Rawstells)
+Desarrollado por [@JoNaLac](https://github.com/JoNaLac)
 
 ## Licencia
 
