@@ -7,7 +7,7 @@
 ## The Same Project with UIKit Framework
 
 🛠 The Same Project Built with UIKit
-You can also check out the UIKit version of this project here: TheCatAPIUIKit Repo (https://github.com/Rawstells/PragmaUIKit)
+You can also check out the UIKit version of this project here: TheCatAPIUIKit Repo (https://github.com/JoNaLac/PragmaUIKit)
 
 ## Descripción
 
